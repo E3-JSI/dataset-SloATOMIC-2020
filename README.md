@@ -1,4 +1,4 @@
-# SloATOMIC 2020 Dataset
+# SloATOMIC 2020 Data Set
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
