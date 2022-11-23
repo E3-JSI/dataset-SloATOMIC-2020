@@ -1,6 +1,6 @@
 # SloATOMIC 2020 Data Set
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 The SloATOMIC 2020 contains the Slovene translated examples of the [ATOMIC 2020][atomic-2020] data set.
 The translation was done using the [DeepL][deepl] translation service.
@@ -39,6 +39,11 @@ This work is developed by [Department of Artificial Intelligence][ailab] at [Joz
 
 The work is supported by the Slovenian Research Agency and the [RSDO][rsdo] project.
 
+## ⚖️ License
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
 [deepl]: https://www.deepl.com/translator
 [atomic-2020]: https://allenai.org/data/atomic-2020
 [slomet-atomic-2020]: https://github.com/eriknovak/RSDO-SLOmet-atomic-2020
@@ -46,5 +51,5 @@ The work is supported by the Slovenian Research Agency and the [RSDO][rsdo] proj
 [ijs]: https://www.ijs.si/
 [rsdo]: https://www.cjvt.si/rsdo/en/project/
 [published-paper]: https://ailab.ijs.si/dunja/SiKDD2022/Papers/SiKDD2022_paper_5674.pdf
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
