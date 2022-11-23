@@ -35,6 +35,22 @@ The data set was used in the following papers:
   Adrian Mladenić Grobelnik, Erik NOvak, Dunja Mladenić, Marko Grobelnik
   SiKDD Slovenian KDD Conference, 2022.
 
+## 🔎 Reference
+
+If the data set was used in for your research, please provide the following reference:
+```
+ @misc{11356/1724,
+   title = {Slovene Translation of the Atomic 2020 data set {SloATOMIC} 2020},
+   author = {Mladeni{\'c} Grobelnik, Adrian and Novak, Erik and Mladeni{\'c}, Dunja and Grobelnik, Marko},
+   url = {http://hdl.handle.net/11356/1724},
+   note = {Slovenian language resource repository {CLARIN}.{SI}},
+   copyright = {Creative Commons - Attribution-{ShareAlike} 4.0 International ({CC} {BY}-{SA} 4.0)},
+   issn = {2820-4042},
+   year = {2022} 
+ }
+```
+
+
 ## 📣 Acknowledgments
 
 This work is developed by [Department of Artificial Intelligence][ailab] at [Jozef Stefan Institute][ijs].
