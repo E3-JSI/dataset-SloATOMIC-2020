@@ -9,6 +9,8 @@ The main purpose of the data set is to train [Slovene commonsense reasoning mode
 
 ## 🗃️ Data
 
+The data set is publicaly available via the [clarin.si repository][clarin-si].
+
 The data set is available in the [data](data) folder which contains the following files:
 
 - [sloatomic_train.tsv](data/sloatomic_train.tsv): The training set.
@@ -53,3 +55,4 @@ This work is licensed under a
 [published-paper]: https://ailab.ijs.si/dunja/SiKDD2022/Papers/SiKDD2022_paper_5674.pdf
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[clarin-si]: https://www.clarin.si/repository/xmlui/handle/11356/1724
