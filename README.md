@@ -64,7 +64,7 @@ This work is licensed under a
 
 [deepl]: https://www.deepl.com/translator
 [atomic-2020]: https://allenai.org/data/atomic-2020
-[slomet-atomic-2020]: https://github.com/eriknovak/RSDO-SLOmet-atomic-2020
+[slomet-atomic-2020]: https://github.com/E3-JSI/model-SloMET-ATOMIC-2020
 [ailab]: http://ailab.ijs.si/
 [ijs]: https://www.ijs.si/
 [rsdo]: https://www.cjvt.si/rsdo/en/project/
