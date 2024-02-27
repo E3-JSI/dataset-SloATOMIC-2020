@@ -9,7 +9,7 @@ The main purpose of the data set is to train [Slovene commonsense reasoning mode
 
 ## 🗃️ Data
 
-The data set is publicaly available via the [clarin.si repository][clarin-si].
+The data set is publically available via the [clarin.si repository][clarin-si].
 
 The data set is available in the [data](data) folder which contains the following files:
 
@@ -21,7 +21,7 @@ The data set is available in the [data](data) folder which contains the followin
 
 ### Data Format
 
-The data is in the tsv (tab-seperated) format. Each line contains one example. The columns are:
+The data is in the tsv (tab-separated) format. Each line contains one example. The columns are:
 
 - **head_event**: The head event of the example.
 - **relation**: The relation between the head event and the tail event.
@@ -37,7 +37,7 @@ The data set was used in the following papers:
 
 ## 🔎 Reference
 
-If the data set was used in for your research, please provide the following reference:
+If the data set was used for your research, please provide the following reference:
 ```
  @misc{11356/1724,
    title = {Slovene Translation of the Atomic 2020 data set {SloATOMIC} 2020},
